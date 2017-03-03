@@ -9,7 +9,8 @@
   "author": "Rob Frampton <rob.g.frampton@gmail.com> (https://github.com/Robert-Frampton)",
   "license": "ISC",
   "bin": {
-    "electric": "bin/electric.js"
+    "electric": "bin/electric.js",
+    "el": "bin/electric.js"
   },
   "publishConfig": {
     "tag": "alpha"
