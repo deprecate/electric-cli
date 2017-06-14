@@ -2,7 +2,7 @@
 
 Command line tools for [electric](https://github.com/wedeploy/electric).
 
-> Note: this CLI is only intended for electric `2.0.0-alpha`, it does not
+> Note: this CLI is only intended for electric `2.0.0`, it does not
 support `1.x` projects.
 
 ## Install

@@ -12,9 +12,6 @@
     "electric": "bin/electric.js",
     "el": "bin/electric.js"
   },
-  "publishConfig": {
-    "tag": "alpha"
-  },
   "dependencies": {
     "chalk": "^1.1.3",
     "electric": "alpha",
