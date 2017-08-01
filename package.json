@@ -1,6 +1,6 @@
 {
   "name": "electric-cli",
-  "version": "2.0.9",
+  "version": "2.1.0",
   "description": "CLI for creating and building electric sites.",
   "main": "index.js",
   "scripts": {
